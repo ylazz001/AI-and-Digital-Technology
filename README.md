@@ -1,4 +1,4 @@
-# AI-and-Digital-Technology
+# Wine Quality Prediction ML
 
 Wine Quality Prediction
 Description
