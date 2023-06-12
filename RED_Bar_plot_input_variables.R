@@ -1,3 +1,5 @@
+# Import  library
+library(ggplot2)
 
 # Read the data
 data <- read.csv("winequality-red.csv", sep=';')
