@@ -38,17 +38,12 @@ Additional packages for data manipulation and visualization like dplyr, ggplot2,
 Download RStudio: https://posit.co/download/rstudio-desktop/
 Download R: https://cran.r-project.org/.
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Yuri Lazzeretti
+
 ylazz001@gmail.com
+
 www.linkedin.com/in/yuri-lazzeretti-b63a22220
 
 ## License
