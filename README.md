@@ -2,7 +2,7 @@
 
 Wine Quality Prediction
 Description
-This repository contains the R scripts and datasets used in my project on predicting wine quality. The project uses machine learning algorithms such as Random Forests and Support Vector Machines to predict wine quality based on physicochemical properties.
+This repository contains the R scripts and datasets used in my project on predicting wine quality. The project uses machine learning algorithms such as Random Forests, Support Vector Machines, and Decision Trees to predict wine quality based on physicochemical properties.
 
 Usage
 The main scripts for the project are the various R files which load the data, train the models, and evaluate their performance. You can run it in RStudio or any other R environment.
