@@ -47,6 +47,10 @@ ylazz001@gmail.com
 
 www.linkedin.com/in/yuri-lazzeretti-b63a22220
 
+## Data
+
+https://archive.ics.uci.edu/dataset/186/wine+quality
+
 ## License
 
 This project is licensed under the MT License - see the LICENSE.md file for details
