@@ -36,6 +36,7 @@ Additional packages for data manipulation and visualization like dplyr, ggplot2,
 ### Installing
 
 Download RStudio: https://posit.co/download/rstudio-desktop/
+
 Download R: https://cran.r-project.org/.
 
 ## Authors
